@@ -1,0 +1,10 @@
+C:\Users\titi_\Desktop\C#.NET - Karlstad\Assignment 3 - BMI\Assignment 3 - BMI\bin\Debug\Assignment 3 - BMI.exe.config
+C:\Users\titi_\Desktop\C#.NET - Karlstad\Assignment 3 - BMI\Assignment 3 - BMI\bin\Debug\Assignment 3 - BMI.exe
+C:\Users\titi_\Desktop\C#.NET - Karlstad\Assignment 3 - BMI\Assignment 3 - BMI\bin\Debug\Assignment 3 - BMI.pdb
+C:\Users\titi_\Desktop\C#.NET - Karlstad\Assignment 3 - BMI\Assignment 3 - BMI\obj\Debug\Assignment 3 - BMI.csproj.AssemblyReference.cache
+C:\Users\titi_\Desktop\C#.NET - Karlstad\Assignment 3 - BMI\Assignment 3 - BMI\obj\Debug\Assignment_3___BMI.Form1.resources
+C:\Users\titi_\Desktop\C#.NET - Karlstad\Assignment 3 - BMI\Assignment 3 - BMI\obj\Debug\Assignment_3___BMI.Properties.Resources.resources
+C:\Users\titi_\Desktop\C#.NET - Karlstad\Assignment 3 - BMI\Assignment 3 - BMI\obj\Debug\Assignment 3 - BMI.csproj.GenerateResource.cache
+C:\Users\titi_\Desktop\C#.NET - Karlstad\Assignment 3 - BMI\Assignment 3 - BMI\obj\Debug\Assignment 3 - BMI.csproj.CoreCompileInputs.cache
+C:\Users\titi_\Desktop\C#.NET - Karlstad\Assignment 3 - BMI\Assignment 3 - BMI\obj\Debug\Assignment 3 - BMI.exe
+C:\Users\titi_\Desktop\C#.NET - Karlstad\Assignment 3 - BMI\Assignment 3 - BMI\obj\Debug\Assignment 3 - BMI.pdb
